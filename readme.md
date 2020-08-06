@@ -1,3 +1,3 @@
-# Vanilla JavaScript App
+# Sample Static Website
 
-This repo is used as a starter for a _very basic_ HTML web application using no front-end frameworks.
+Basically a hello world page to test GitHub Actions and Azure Static Websites
